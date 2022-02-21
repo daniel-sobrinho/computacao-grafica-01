@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1645116647 source:c:\users\tesouraria\desktop\tmp\src\ponto.cpp
+	<iostream>
+	"ponto.h"
+
+1645446157 c:\users\tesouraria\desktop\tmp\include\ponto.h
+
+1645460385 source:c:\users\tesouraria\desktop\tmp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+
+1645460168 source:c:\users\tesouraria\desktop\tmp\src\quadrado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+	"ponto.h"
+
+1645460098 c:\users\tesouraria\desktop\tmp\include\quadrado.h
+	"ponto.h"
+
+1645481258 source:c:\users\danie\desktop\computacao-grafica-atividade01\src\ponto.cpp
+	<iostream>
+	"ponto.h"
+
+1645482536 c:\users\danie\desktop\computacao-grafica-atividade01\include\ponto.h
+
+1645485388 source:c:\users\danie\desktop\computacao-grafica-atividade01\src\quadrado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+	"ponto.h"
+
+1645482536 c:\users\danie\desktop\computacao-grafica-atividade01\include\quadrado.h
+	"ponto.h"
+
+1645485507 source:c:\users\danie\desktop\computacao-grafica-atividade01\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+
