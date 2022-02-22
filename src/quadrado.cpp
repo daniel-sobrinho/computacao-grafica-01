@@ -6,6 +6,8 @@
 #include "ponto.h"
 
 Quadrado::Quadrado(int grid, int tamanho){
+    tamanho -= 1;
+
     unsigned seed = time(0);
 
     srand(seed);
