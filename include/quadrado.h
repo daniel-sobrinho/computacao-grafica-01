@@ -15,6 +15,10 @@ class Quadrado{
 
     public:
         Quadrado(int grid, int tamanho);
+        Quadrado(Ponto ponto, int grid, int tamanho);
+
+        void soma(Ponto ponto_aux);
+        void multiplicacao(Ponto ponto_aux);
 
         Ponto getA();
         Ponto getB();

@@ -43,3 +43,25 @@
 	<ctime>
 	"quadrado.h"
 
+1649123211 source:c:\users\danie\desktop\computacao-grafica-01\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+
+1647901034 c:\users\danie\desktop\computacao-grafica-01\include\quadrado.h
+	"ponto.h"
+
+1645567808 c:\users\danie\desktop\computacao-grafica-01\include\ponto.h
+
+1645567808 source:c:\users\danie\desktop\computacao-grafica-01\src\ponto.cpp
+	<iostream>
+	"ponto.h"
+
+1649123295 source:c:\users\danie\desktop\computacao-grafica-01\src\quadrado.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"quadrado.h"
+	"ponto.h"
+
